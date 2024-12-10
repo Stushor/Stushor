@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stushor
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on discord - minori_reol
 - 📫 How to reach me business.stushor@gmail.com
 
