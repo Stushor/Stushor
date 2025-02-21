@@ -4,7 +4,7 @@
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://media.tenor.com/RM7n7ozESdAAAAAj/luigi-yapping-luigi.gif" height="180">
 <ul>
-<li> 😌 Finished <a href="https://stepik.org/cert/2493513">Python course</a> </li>
+<li> 😌 Finished <a href="https://stepik.org/certificate/a2d9d8d8c3e3ae623dad53dea734566e377d4c51.png?resolution=low">Python course</a> </li>
 <li> 👩🏻‍💻 Learning now <a href="https://dvmn.org/modules/">Python-developer course</a> and <a href="https://stepik.org/course/171826/info">QA course</a></li>
 <li> ☕ Learning backend development and how to automate tests with Python</li>
 <li> 📖 Most of my study cases are available on <a href="https://github.com/Stushor">Github</a></li> </li>
