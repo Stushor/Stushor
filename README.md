@@ -12,7 +12,7 @@
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" title="fastapi" alt="fastapi" width="40" height="40"/>
 <img src="https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png" title="python" alt="python" width="40" height="40"/>
 <img src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark.png" title="django" alt="django" width="40" height="40"/>
 <img src="https://e7.pngegg.com/pngimages/939/2/png-clipart-flask-python-web-framework-representational-state-transfer-software-framework-flask-python-web-application-django.png" title="flask" alt="flask" width="40" height="40"/>
