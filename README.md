@@ -33,6 +33,14 @@
 <img src="https://static-00.iconduck.com/assets.00/gunicorn-icon-2048x1245-14wjcllu.png" title="gunicorn" alt="gunicorn" width="40" height="40"/>
 </p>
 </p>
+<h2>Projects</h2>
+<ul>
+<li> <a href="https://github.com/Stushor/Test_Rowing_Boat">Testing rowing boat</a> </li>
+<li> <a href="https://github.com/Stushor/weather_API">Working with API wttr.in</a></li>
+<li> <a href="https://github.com/Stushor/PhotoMonro">Photo conversion</a></li>
+<li> <a href="https://github.com/Stushor/Map_Coffee_In_Moscow">Map coffee in Moscow</a></li> </li>
+<li> <a href="https://github.com/Stushor/Alien_Invasion">Game Alien Invasion</a></li>
+</ul>
 <h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p align="center">
 <a href= "https://t.me/stushor"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
