@@ -33,7 +33,7 @@
 <img src="https://static-00.iconduck.com/assets.00/gunicorn-icon-2048x1245-14wjcllu.png" title="gunicorn" alt="gunicorn" width="40" height="40"/>
 </p>
 </p>
-<h2>P
+<ul>
 <li> <a href="https://github.com/Stushor/Test_Swagger">Testing API Swagger PetStore with Pytest</a> </li>
 <li> <a href="https://github.com/Stushor/Test_Rowing_Boat">Testing rowing boat with Pytest</a> </li>
 <li> <a href="https://github.com/Stushor/weather_API">Working with API wttr.in</a></li>
