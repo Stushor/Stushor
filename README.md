@@ -33,9 +33,9 @@
 <img src="https://static-00.iconduck.com/assets.00/gunicorn-icon-2048x1245-14wjcllu.png" title="gunicorn" alt="gunicorn" width="40" height="40"/>
 </p>
 </p>
-<h2>Projects</h2>
-<ul>
-<li> <a href="https://github.com/Stushor/Test_Rowing_Boat">Testing rowing boat</a> </li>
+<h2>P
+<li> <a href="https://github.com/Stushor/Test_Swagger">Testing API Swagger PetStore with Pytest</a> </li>
+<li> <a href="https://github.com/Stushor/Test_Rowing_Boat">Testing rowing boat with Pytest</a> </li>
 <li> <a href="https://github.com/Stushor/weather_API">Working with API wttr.in</a></li>
 <li> <a href="https://github.com/Stushor/PhotoMonro">Photo conversion</a></li>
 <li> <a href="https://github.com/Stushor/Map_Coffee_In_Moscow">Map coffee in Moscow</a></li> </li>
